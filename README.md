@@ -20,7 +20,6 @@ Senha: 1234
 O candidato possui apenas permissão para visualizar e se candidatar as vagas.
 ![image](https://github.com/epontello/teste-desenvolvedor-php/assets/131972811/23ebdcb2-b5e0-412f-a571-38f8b7188918)
 
-Infelizmente por problemas pessoais não foi possivel finalizar o projeto com todas as funcionalidades de acordo com o solicitado dentro do prazo estipulado.
 
 
 
