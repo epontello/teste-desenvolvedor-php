@@ -14,7 +14,7 @@ Atraves dos botôes de controle é possível efetuar as operações de acordo co
 
 Para acesso do candidato, basta sair do sistema clicando no botão vermelho do canto superior direito.
 
-Usuário: admin@admin.com
+Usuário: teste@teste.com
 Senha: 1234
 
 O candidato possui apenas permissão para visualizar e se candidatar as vagas.
